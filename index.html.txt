@@ -5,6 +5,7 @@
 <body>
      <center>
             <h1>welcome to devops training</h1>
+	    <h2>this change from dev2</h2>
      </center>
 </body>
 </html>
